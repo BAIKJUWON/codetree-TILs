@@ -11,7 +11,7 @@ int main() {
         }
     }
 
-    if(a<0){
+    if(a<=0){
         printf("%d",0);
     }
     return 0;
