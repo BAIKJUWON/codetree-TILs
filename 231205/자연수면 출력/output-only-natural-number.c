@@ -10,5 +10,9 @@ int main() {
             printf("%d",a);
         }
     }
+
+    if(a<0){
+        printf("%d",0);
+    }
     return 0;
 }
